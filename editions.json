@@ -1,0 +1,16 @@
+{
+  "format": "arc-editions",
+  "version": 1,
+  "editions": [
+    {
+      "name": "RSL November 2024",
+      "file": "rsl-november-2024.sqlite",
+      "bytes": 5521408,
+      "sha256": "ef5a82b43af2d4a77474801b08df28f8686ab59772cabd6a557be4204686e007",
+      "minArcVersion": "0.1.0",
+      "builtAt": "2026-10-07T19:36:12.352Z",
+      "publishedAt": "2026-10-07T20:03:38.728Z",
+      "signature": "UluW5SZkdzQwqoQ8rYQSyyZwk2RyUu5m2/n3DW6WiFQ/2M+ttnhFX4YQPtEIKdllSLd09nXujFXnEaqOzHwYBg=="
+    }
+  ]
+}
