@@ -3,6 +3,16 @@
   "version": 1,
   "editions": [
     {
+      "name": "RSL November 2024, build 3",
+      "file": "rsl-november-2024-build-3.sqlite",
+      "bytes": 8982528,
+      "sha256": "0cd9629f0c879e4235b6ef22f7850f9493d6c4bfa9ad76d92d7096b3e460bfa7",
+      "minArcVersion": "0.2.0",
+      "builtAt": "2026-10-11T19:16:35.684Z",
+      "publishedAt": "2026-10-11T19:32:25.415Z",
+      "signature": "oo1bt955YAsBN9P9aAILk1Y1hmw0udqM6zQv8FIhHyEr2fhEblLwzOJ5QqsKzVOFir8chP2LiD/yUbDdztGGBw=="
+    },
+    {
       "name": "RSL November 2024",
       "file": "rsl-november-2024.sqlite",
       "bytes": 5521408,
